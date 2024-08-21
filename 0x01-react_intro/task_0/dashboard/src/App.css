@@ -1,0 +1,42 @@
+/* General app styles */
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Header styles */
+.App-header {
+  background-color: #ffffff;
+  color: #E0344B;
+  border-bottom: 3px solid #E0344B;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.App-logo {
+  height: 150px;
+  margin-right: 20px;
+}
+
+/* Main body styles */
+.App-body {
+  color: #333;
+  font-size: 20px;
+  margin: 20px;
+}
+
+/* Footer styles */
+.App-footer {
+  border-top: 3px solid #E0344B;
+  padding: 20px;
+  font-size: 16px;
+  color: #999;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+}
+
